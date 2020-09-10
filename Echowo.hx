@@ -1,5 +1,3 @@
-import haxe.io.Input;
-
 class Echowo {
 	public static function main(){
 		var noNewline:Bool = false;
