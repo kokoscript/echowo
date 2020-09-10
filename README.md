@@ -2,7 +2,7 @@ echowo
 ======
 Near-drop-in replacement for the Unix echo command which also uwu-fies text
 
-![echowo screenshot](/screenshot.png)
+![echowo screenshot](https://fluff.haus/kokoscript/echowo/raw/branch/master/screenshot.png)
 
 Building
 ========
